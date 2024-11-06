@@ -1,7 +1,7 @@
 <%-- 
     Document   : mesaInfo
     Created on : 6/11/2024, 2:32:03 p. m.
-    Author     : CARLOS
+    Author     :  Beiby Calderon
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
